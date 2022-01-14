@@ -31,6 +31,7 @@ function Listing() {
         );
     }, [pageNumber])
 
+
     return (
         <>
             <Pagination />
